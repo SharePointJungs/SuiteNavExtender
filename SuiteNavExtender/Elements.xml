@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Control Id="SuiteBarDelegate"
+          Sequence="50"
+          ControlClass="Microsoft.SharePoint.WebControls.SuiteNavControl"
+          ControlAssembly="Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c"
+          xmlns="http://schemas.microsoft.com/sharepoint/">
+    <!--Dem SuiteNavControl die Rest-Methode nennen, über dir er nun die Daten laden soll-->
+    <Property Name="SuiteNavRestMethod">SuiteNavExtenderService/GetSuiteNavData</Property>
+  </Control>
+  <!--AdditionalPageHead-->
+  <Control ControlSrc="/_controltemplates/15/SuiteNavExtender/AdditionalPageHeader.ascx"
+           Id="AdditionalPageHead"
+           Sequence="90" />
+</Elements>

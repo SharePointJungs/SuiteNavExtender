@@ -1,0 +1,65 @@
+﻿{
+  "DoNotCache": true,
+  "NavBarData": {
+    "AboutMeLink": null,
+    "ClientData": null,
+    "CurrentMainLinkElementID": null,
+    "CurrentWorkloadHelpSubLinks": null,
+    "CurrentWorkloadSettingsSubLinks": null,
+    "CurrentWorkloadUserSubLinks": null,
+    "HelpLink": null,
+    "IsAuthenticated": false,
+    "PinnedApps": null,
+    "WorkloadLinks": [
+      {
+        "AriaLabel": null,
+        "BackgroundColor": null,
+        "BrandBarText": null,
+        "CollectorId": null,
+        "FontIconCss": null,
+        "IconFullUrl": "/_layouts/15/images/suitenavextender/logospj200.png",
+        "Id": "Sharepointjungs",
+        "IsNewGroup": false,
+        "LaunchFullUrl": null,
+        "Size": 0,
+        "TargetWindow": null,
+        "Text": "Sharepointjungs",
+        "Title": "Sharepointjungs",
+        "Url": "http://www.sharepointjungs.de"
+      },
+      {
+        "AriaLabel": null,
+        "BackgroundColor": null,
+        "BrandBarText": null,
+        "CollectorId": null,
+        "FontIconCss": null,
+        "IconFullUrl": null,
+        "Id": "Datenjungs",
+        "IsNewGroup": false,
+        "LaunchFullUrl": null,
+        "Size": 0,
+        "TargetWindow": null,
+        "Text": "Datenjungs",
+        "Title": "Datenjungs",
+        "Url": "http://www.datenjungs.de"
+      },
+      {
+        "AriaLabel": null,
+        "BackgroundColor": null,
+        "BrandBarText": null,
+        "CollectorId": null,
+        "FontIconCss": null,
+        "IconFullUrl": null,
+        "Id": "Sites",
+        "IsNewGroup": false,
+        "LaunchFullUrl": null,
+        "Size": 0,
+        "TargetWindow": null,
+        "Text": "Websiteinhalte",
+        "Title": "Websiteinhalte",
+        "Url": "/_layouts/15/viewlsts.aspx"
+      }
+    ]
+  },
+  "SPSuiteVersion": 2
+}

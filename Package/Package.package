@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e9d2834a-ed4b-416f-9dce-e4cc9b7421cf" solutionId="e9d2834a-ed4b-416f-9dce-e4cc9b7421cf" resetWebServer="false" sharePointProductVersion="16.0" name="SuiteNavExtender" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d3fd5c2d-6fb7-42e8-9668-d56b1db57c67" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="cb55ea80-1a31-4dfd-a2b1-9281d161581a" />
+    <projectItemReference itemId="0f4f2f6c-0ec5-4489-b8e1-f727d46651e3" />
+    <projectItemReference itemId="97430c77-56c6-40da-90db-a898dfa3a154" />
+    <projectItemReference itemId="6211ac42-3f4e-4a94-a853-708a961569c2" />
+  </projectItems>
+</package>
